@@ -1,1 +1,2 @@
 # demoprac
+print("hello world")
